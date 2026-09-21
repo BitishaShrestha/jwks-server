@@ -36,6 +36,10 @@ The server listens on http://localhost:8080.
 python -m pytest --cov=. --cov-report=term-missing
 python -m flake8 .
 ```
+## AI usage
+
+AI (Claude) was used on this project. See [AI_USAGE.md](AI_USAGE.md) for the
+acknowledgement and the list of prompts.
 
 ## Screenshots
 
